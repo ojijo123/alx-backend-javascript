@@ -1,0 +1,7 @@
+
+import getBudgetObject from './7-getBudgetObject';
+rt interface RowElement {
+  firstName: string;
+  lastName: string;
+  age?: number;
+}
